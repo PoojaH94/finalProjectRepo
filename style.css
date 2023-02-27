@@ -1,0 +1,126 @@
+
+.body {
+  height: 100vh;
+  box-sizing: border-box;
+}
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: darkblue;
+  }
+  .nutricontainer {
+    display: flex;
+     justify-content: space-evenly;
+     
+
+
+}
+.nutri-img img {
+    height: 300px;
+    margin: 40px;
+    
+}
+.nutri-image1 {
+  height: 300px; 
+  margin-top: 40px; 
+}
+h3{
+    
+    margin-top: 40px;
+    
+}
+  .logo{
+  margin-right: 10px;
+  padding: 0px;
+  
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+  .header-info a {
+
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 20px;
+  text-align: center;
+
+
+  
+}
+.head h1 {
+  color: red;
+  text-align: center;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.container-2 {
+  display: flex;
+  height: 500px;
+}
+.container-3{
+  display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: gray;
+
+}
+.para-info p{
+  margin-left: 20px;
+}
+
+.para1 {
+  color: red;
+  font-size: 22px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+.para2 {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom:10px;
+  padding: 0px;
+}
+.socialmedia a {
+
+  color: white;
+  padding: 10;
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 100px;
+  text-align: center;
+}
+.footer p {
+font-size: 25px;
+margin: 20px 600px 30px 20px;
+padding: 0px;
+}
+.blog-container h1 {
+  font-size: 40px;
+  line-height: 56px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.blog-container {
+  display: flex;
+  
+  flex-direction: column;
+  margin: auto auto 0;
+  
+
+}
+.chartbeat-section{
+  flex: 0 1 250px;
+}
+.bog-container1 {
+  display: flex;
+  
+  margin: auto auto 0;
+  
+
+}
